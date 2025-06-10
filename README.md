@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Janvi Gupta</h1>
 
-<p align="center">
+<p align="left">
   🎓 B.Tech Information Technology Student at Netaji Subhas University of Technology <br/>
   💻 Passionate about Full-Stack Development, UI/UX, and Problem Solving <br/>
   🌱 Currently learning and building exciting projects <br/>
